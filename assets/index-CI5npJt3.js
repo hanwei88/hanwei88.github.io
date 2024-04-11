@@ -1,0 +1,1 @@
+import{D as n,a as o,j as r}from"./index-CyNDG0-6.js";const c=Object.assign({name:"DevIndex"},{__name:"index",setup(s){return(t,a)=>{const e=n("v-form-designer");return o(),r(e)}}});export{c as default};

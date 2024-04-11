@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as o,c as t}from"./index-CyNDG0-6.js";const n={__name:"index",setup(_){return a(()=>{}),(c,s)=>(o(),t("div",null,"这是首页"))}},p=e(n,[["__scopeId","data-v-70e683aa"]]);export{p as default};
